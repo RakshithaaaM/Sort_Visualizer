@@ -8,9 +8,9 @@ Interactive Visualization: Start, pause, and reset the sorting process.
 Speed Control: Adjust the speed of the sorting visualization.
 Responsive Design: The visualizer is designed to fit different screen sizes, with a scrollable interface to ensure all content is accessible.
 ## Algorithms Included:
-Bubble Sort
-Heap Sort
-Merge Sort
-Insertion Sort
-Selection Sort
-Quick Sort
+Bubble Sort/
+Heap Sort/
+Merge Sort/
+Insertion Sort/
+Selection Sort/
+Quick Sort/
